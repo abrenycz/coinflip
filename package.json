@@ -1,0 +1,16 @@
+{
+  "name": "coinflip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "micro": "^9.1.4",
+    "then-sleep": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "micro"
+  },
+  "author": "",
+  "license": "ISC"
+}
